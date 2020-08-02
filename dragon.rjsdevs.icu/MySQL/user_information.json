@@ -1,0 +1,36 @@
+[
+  {
+    "type":"header",
+    "version":"5.0.1",
+    "comment":"Export to JSON plugin for PHPMyAdmin"
+  },
+  {"type":"database",
+    "name":"dragon_fruit"
+  },
+  {
+    "type":"table",
+    "name":"user_information",
+    "database":"dragon_fruit",
+    "data":
+    [
+      {
+        "id":"1",
+        "username":"ardyengineer",
+        "email":"ardyengineer@gmail.com",
+        "product":"$2y$12$\/hhDt51sgJSmTicemaZhGeMn4StHvud\/l2rN7qsvx2JFvNtWSEtX2",
+        "re_product":"12345678",
+        "password":"$2y$12$TGWScmxF39zMElma8mOOLeICbHO8MpU5s04Ppt3OhfBFzywtYDQLC",
+        "re_password":"12345678",
+        "lamp_a":"0",
+        "lamp_b":"0",
+        "lamp_a_data":"{\"hour_on\":\"00\",\"hour_off\":\"00\",\"minute_on\":\"00\",\"minute_off\":\"00\",\"date\":\"15:41:38 29\/07\/2020\"}",
+        "lamp_b_data":"{\"hour_on\":\"00\",\"hour_off\":\"00\",\"minute_on\":\"00\",\"minute_off\":\"00\",\"date\":\"15:41:38 29\/07\/2020\"}",
+        "volt":"0",
+        "ampere":"0",
+        "statistics":"{\"data\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],\"date\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}",
+        "statistics_data":"15:41:38 29\/07\/2020",
+        "times":"15:41:38 29\/07\/2020"
+      }
+    ]
+  }
+]
